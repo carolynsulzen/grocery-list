@@ -1,0 +1,32 @@
+body{ background-color: aliceblue;}
+.section1{background-color: blueviolet; height: 50px; width: 400px;}
+.produce{
+  background-color: blueviolet; 
+  height: 100px; 
+  width: 700px;
+   color: black;
+  border: dotted;}
+
+  .image1{padding: 50px;}
+
+  .meat{background-color: chartreuse;
+  height: 200px;
+  width: 700px;
+  color: black;
+  border: dashed;
+  border-radius: 15%;
+  margin: 50px;} 
+
+  #meat1{color: brown;
+  border-color: black;}
+
+  #goods{
+    color: crimson;
+    background-color: chocolate;
+    margin: 15%;
+    padding: 15%;
+  }
+
+  #misc{padding-left: 15%;}
+  section{background-color: antiquewhite;}
+  P{color: coral;}
